@@ -3,7 +3,7 @@ name: Build Linux binary
 on: 
   push:
     # write your branch name
-    branches: [your-branch]
+    branches: [main]
 
 permissions:
   contents: read
